@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/tarungiduturi21/game-of-life.git/"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "miiro@getintodevops.com",
+  "author": "devops421@tarungiduturi421.com",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
